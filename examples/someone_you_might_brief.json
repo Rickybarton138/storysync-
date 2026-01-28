@@ -1,0 +1,68 @@
+{
+  "title": "Thought That I Could Be Someone You Might",
+
+  "setting": {
+    "location": "Modern metropolitan city - New York or London vibe",
+    "time_period": "contemporary",
+    "environment": "Cozy cafes with exposed brick, upscale restaurants with candlelit tables, stylish urban apartment with large windows overlooking the city, bustling city streets with autumn leaves"
+  },
+
+  "characters": [
+    {
+      "name": "David",
+      "description": "Man in his early 30s, naturally warm and slightly scruffy but likeable. Throughout most of the video he's over-dressed and trying too hard - slicked back hair, uncomfortable suit, rehearsed gestures. By the end, he's relaxed in his natural state - messy hair, casual clothes, genuine smile.",
+      "role": "protagonist"
+    },
+    {
+      "name": "Sophie",
+      "description": "Woman in her early 30s, effortlessly stylish and warm. Expressive eyes that show her confusion and frustration when David acts fake, and her joy when she sees the real him. Dressed casually chic.",
+      "role": "love_interest"
+    }
+  ],
+
+  "tone": {
+    "mood": "Light and warm with moments of comedic awkwardness, building to heartfelt emotional resolution",
+    "colour_palette": "Warm golden tones, soft sunlight through windows, cozy amber lighting in interiors. Slightly cooler and more sterile tones during the 'trying too hard' scenes that warm up as he becomes himself",
+    "visual_style": "Classic Hollywood rom-com aesthetic - think Nancy Meyers meets Richard Curtis. Soft focus backgrounds, warm lens flares, smooth camera movements. Clean and polished but never cold."
+  },
+
+  "key_moments": [
+    {
+      "section": "intro",
+      "description": "David in front of a bathroom mirror, practising expressions and adjusting his tie nervously, psyching himself up"
+    },
+    {
+      "section": "verse_1",
+      "description": "Awkward dinner date at a fancy restaurant - David using exaggerated gestures, ordering wine he clearly knows nothing about, Sophie looking puzzled and slightly uncomfortable"
+    },
+    {
+      "section": "chorus_1",
+      "description": "Montage of David's failed attempts - buying flowers she's allergic to, cooking an elaborate meal that goes wrong, wearing clothes that aren't him. Sophie's expressions shift from confused to sad"
+    },
+    {
+      "section": "verse_2",
+      "description": "The distance growing between them - sitting on opposite ends of the couch, Sophie looking out the apartment window at the city, David exhausted from performing"
+    },
+    {
+      "section": "bridge",
+      "description": "THE KEY MOMENT: David alone, catches his reflection in a rain-spattered window. He sees himself - really sees himself. Loosens his tie, runs his hand through his hair, breathes out. A weight lifts. The lighting shifts warmer. He smiles genuinely for the first time."
+    },
+    {
+      "section": "final_chorus",
+      "description": "David finds Sophie at their favourite simple cafe. He's in his normal clothes, relaxed. He says something that makes her laugh - a real laugh. Their hands find each other across the table. Close-up on their genuine smiles."
+    },
+    {
+      "section": "outro",
+      "description": "Walking together through the city streets at golden hour, comfortable and happy. Sophie leans into him. They share a soft, genuine kiss. Pull back to a wide shot of them walking away together into the warm sunset cityscape."
+    }
+  ],
+
+  "style_references": [
+    "Notting Hill (1999) - for the warm London rom-com feel",
+    "The Holiday (2006) - for cozy interiors and golden lighting",
+    "Crazy Stupid Love (2011) - for the male transformation arc",
+    "About Time (2013) - for the heartfelt, genuine emotional moments"
+  ],
+
+  "additional_notes": "The visual comedy should be subtle and warm, not slapstick. We're rooting for David throughout - his attempts come from love, just misguided. The transformation in the bridge should feel like an exhale, a relief. Sophie should never seem mean or dismissive - she's confused and misses the real him. The ending should feel earned and genuinely romantic. Keep it family-friendly and heartwarming throughout."
+}

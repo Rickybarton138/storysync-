@@ -1,0 +1,73 @@
+{
+  "title": "The Long Way Home",
+  
+  "setting": {
+    "location": "Rural Ireland and wartime England",
+    "time_period": "1943-1945",
+    "environment": "Stone cottages with thatched roofs, misty green hills, crowded train stations with steam locomotives, muddy trenches"
+  },
+  
+  "characters": [
+    {
+      "name": "Thomas",
+      "description": "Young Irish soldier in his early 20s. Dark curly hair, weathered face with kind eyes, wearing a British Army uniform. Has a quiet strength about him.",
+      "role": "protagonist"
+    },
+    {
+      "name": "Mary", 
+      "description": "Thomas's wife, late teens to early 20s. Auburn red hair, freckles across her nose, bright hopeful eyes. Wears simple rural dresses typical of 1940s Ireland. Becomes visibly pregnant by the final act.",
+      "role": "love_interest"
+    },
+    {
+      "name": "The Child",
+      "description": "Newborn baby wrapped in a white knitted blanket. Only appears in the final scene.",
+      "role": "supporting"
+    }
+  ],
+  
+  "tone": {
+    "mood": "Bittersweet and melancholic with hopeful undertones that build toward an emotional resolution",
+    "colour_palette": "Desaturated greens and greys for war scenes, warm amber and soft golden tones for home and reunion scenes",
+    "visual_style": "Cinematic 35mm film aesthetic with natural film grain. Mix of intimate handheld close-ups and sweeping wide establishing shots. Shallow depth of field for emotional moments."
+  },
+  
+  "key_moments": [
+    {
+      "section": "intro",
+      "description": "Thomas writing a letter by candlelight in a muddy trench at night, rain falling outside"
+    },
+    {
+      "section": "verse_1", 
+      "description": "Intercut between Thomas marching with his regiment and Mary reading his letter by the cottage window"
+    },
+    {
+      "section": "chorus_1",
+      "description": "Warm, golden flashback to their wedding day - dancing outside the cottage, genuine joy and laughter"
+    },
+    {
+      "section": "verse_2",
+      "description": "Intense battle scenes, rain and mud, Thomas protecting the letter inside his jacket"
+    },
+    {
+      "section": "bridge",
+      "description": "Mary alone and visibly pregnant, standing at the window watching rain fall, touching her belly"
+    },
+    {
+      "section": "final_chorus",
+      "description": "Train arriving at the station, steam clearing dramatically, Thomas and Mary's emotional reunion on the platform"
+    },
+    {
+      "section": "outro",
+      "description": "Thomas holding their newborn baby, Mary beside him, their cottage in the background as the sun sets"
+    }
+  ],
+  
+  "style_references": [
+    "1917 (2019) - for continuous motion and immersive war sequences",
+    "Atonement (2007) - for the library/reunion scene lighting and period atmosphere",
+    "Band of Brothers - for authentic period military detail",
+    "Brooklyn (2015) - for the soft, romantic Irish scenes"
+  ],
+  
+  "additional_notes": "The song builds from quiet, reflective verses to an emotional climax at the final chorus. The visual intensity should match this arc - starting subdued and building to the powerful reunion. Avoid anything that feels too modern or digital. Keep it grounded, real, and emotionally authentic. The love story is the heart of it - the war is the obstacle, not the focus."
+}

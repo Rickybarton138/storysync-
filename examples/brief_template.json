@@ -1,0 +1,34 @@
+{
+  "title": "Your Song Title",
+  
+  "setting": {
+    "location": "Describe the main location/world",
+    "time_period": "contemporary",
+    "environment": "Additional environmental details"
+  },
+  
+  "characters": [
+    {
+      "name": "Main Character",
+      "description": "Physical description - age, appearance, clothing, demeanor",
+      "role": "protagonist"
+    }
+  ],
+  
+  "tone": {
+    "mood": "emotional mood of the video",
+    "colour_palette": "colour grading description",
+    "visual_style": "cinematic style description"
+  },
+  
+  "key_moments": [
+    {
+      "section": "chorus",
+      "description": "What should happen visually during the chorus"
+    }
+  ],
+  
+  "style_references": [],
+  
+  "additional_notes": ""
+}
